@@ -1,1 +1,3 @@
-# danceshow
+---
+permalink: /index.html
+---
